@@ -29,8 +29,8 @@ Soy estudiante de **Estadística** e **Ingeniería de Sistemas** en la **Univers
 
 ### 📬 **Contáctame:**
 - **Correo**: mgutierrezta@unal.edu.co
-- **LinkedIn**: [tuLinkedIn]
-- **Twitter**: [tuTwitter]
+- **LinkedIn**: manuel-gutierrez-tangarife
+- **Twitter**: 
 
 ---
 
